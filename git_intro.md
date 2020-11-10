@@ -14,3 +14,5 @@
 - git status - 'confirms what was changed and shows you'
 - git commint -m "write changes made here"- 'Lets you comment on what changes you made'
 -git push origin main - this pushes whatever you made in VS live to the repository on Github
+
+[<==]
