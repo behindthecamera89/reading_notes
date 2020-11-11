@@ -9,4 +9,5 @@
 - [Git Intro](git_intro.md)
 - [HTML Notes](html_notes.md)
 - [class5](class5)
+- [CSS Notes](css.md)
 
