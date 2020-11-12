@@ -10,4 +10,5 @@
 - [HTML Notes](html_notes.md)
 - [class5](class5)
 - [CSS Notes](css.md)
+- [JavaScript](javascript.md)
 
