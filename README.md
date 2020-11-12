@@ -11,4 +11,5 @@
 - [class5](class5)
 - [CSS Notes](css.md)
 - [JavaScript](javascript.md)
-
+- [Programming with js](programmingwithjs.md)
+- [Operators and Loops](operators&loops.md)
