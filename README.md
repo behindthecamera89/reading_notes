@@ -13,3 +13,4 @@
 - [JavaScript](javascript.md)
 - [Programming with js](programmingwithjs.md)
 - [Operators and Loops](operators&loops.md)
+- [How Computers work](howcomputerswork.md)
